@@ -3,7 +3,7 @@ Spotifyで聞ける好きな音楽。挙げてる曲はハマるきっかけに�
 # techno
 
 - Diverse System https://open.spotify.com/artist/6ZE41DsmYRP2W3ACRLD4l1?si=5UpaZdJsRKygTg4x8QZBBA
-- Sakujo [@sakuzyo_skz](https://twitter.com/sakuzyo_skz) https://open.spotify.com/artist/53BVcGSlpWPF7iYsSN0Oe1?si=v_KmpLW1RRi1PDjc_LyRDQ
+- Sakuzyo [@sakuzyo_skz](https://twitter.com/sakuzyo_skz) https://open.spotify.com/artist/53BVcGSlpWPF7iYsSN0Oe1?si=v_KmpLW1RRi1PDjc_LyRDQ
 - Moe Shop https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ?si=7OGsTjJbT0q-VM67v627KA
 - Bitplane https://open.spotify.com/artist/5DirjXq95E30aKz5hQmjDg?si=JVK4uAVITa2xORFQozAkuQ
 - Onoken https://open.spotify.com/artist/4bQFn6WUUBu0cgLu9Q9EEv?si=IAAVNQ-bRmSiRcsx_Xa5HQ
@@ -48,6 +48,8 @@ Spotifyで聞ける好きな音楽。挙げてる曲はハマるきっかけに�
 - ★やなぎなぎ https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo?si=YqjqL3uBT-qrPNNvgxUYzg
 - ★binaria https://open.spotify.com/artist/3SkdXeqJHKFNXuaHvrj1pL?si=hJJpIhe7R1qERi25Ws5hnw
     - カミイロアワセ https://open.spotify.com/track/77spgc3VsjeFMi8ged5cOO?si=zyvbm6MsRvSaEZKqKURmbg
+- ずっと真夜中でいいのに https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj?si=P5HAhP7QSmiggAHxe3Er9g
+- 燦鳥ノム https://open.spotify.com/artist/47dWUegQfMWoEuh9lLfIhi?si=2mRzKYqnRu6OZkeXU6seiQ
 
 # Classic
 
