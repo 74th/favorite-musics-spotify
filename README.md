@@ -61,3 +61,6 @@ Spotifyで聞ける好きな音楽。挙げてる曲はハマるきっかけに�
 - Takanori Nishikawa https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz?si=d05lyXSgRr-IzapBxzJFeA
 - Kalafina https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy?si=8xnykqz-RFqgwifKQd8Xow
 
+# USER
+
+- [ヒーホー](https://open.spotify.com/user/j5u8csody72lmtsl2j3o3g1fs?si=ry6tsFMXTuqzp7kL0GqJlQ)
