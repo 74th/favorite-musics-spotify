@@ -13,6 +13,7 @@ Spotifyで聞ける好きな音楽。挙げてる曲はハマるきっかけに�
 - 中田ヤスタカ https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG?si=LneNZUCFRky3UMl5SjflUg
 - Perfume https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr?si=RgbxdvcUSHSwBqsCPin0Hw
 - XI https://open.spotify.com/artist/0bwKEOznEbnmCK85SPEYuK?si=D-e9oHN4RBiF0qf-mZvEUQ
+- Wisp X https://open.spotify.com/artist/6qxhZqIAvYzDVKIyyYtVlX?si=-dSmHu2YT5-kUyvMg0TrZg
 
 # Easy Techno
 
