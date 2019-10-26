@@ -15,6 +15,7 @@ Spotifyで聞ける好きな音楽。挙げてる曲はハマるきっかけに�
 - XI https://open.spotify.com/artist/0bwKEOznEbnmCK85SPEYuK?si=D-e9oHN4RBiF0qf-mZvEUQ
 - Wisp X https://open.spotify.com/artist/6qxhZqIAvYzDVKIyyYtVlX?si=-dSmHu2YT5-kUyvMg0TrZg
 - callasoiled https://open.spotify.com/artist/7aZvrOvlYcdjv1KjjnoFzc?si=upgeRJZwRsmAiUOzAwIZQw
+- Silentroom https://open.spotify.com/artist/7LLBCtTpnXXkY6AvW0Qjy9?si=pE5LqCkURk23cwrve5leoA
 
 # Easy Techno
 
