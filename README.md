@@ -61,6 +61,8 @@ Spotifyで聞ける好きな音楽。挙げてる曲はハマるきっかけに�
     - カミイロアワセ https://open.spotify.com/track/77spgc3VsjeFMi8ged5cOO?si=zyvbm6MsRvSaEZKqKURmbg
 - ずっと真夜中でいいのに https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj?si=P5HAhP7QSmiggAHxe3Er9g
 - 燦鳥ノム https://open.spotify.com/artist/47dWUegQfMWoEuh9lLfIhi?si=2mRzKYqnRu6OZkeXU6seiQ
+- myson book girl https://open.spotify.com/artist/2rkgBTtk0Ec32yjIYsFP87?si=oL9g6GskTsa4EK-mq6kkPA
+  - [海と宇宙の子供たち](https://open.spotify.com/album/1tbAs2zSXk2NcQvBTkAvo8?si=5qRGaM2cTXa_QY9zztgrRA)
 
 # Classic
 
