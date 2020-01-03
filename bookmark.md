@@ -14,7 +14,7 @@
 - On Prism Records / Prhythmatic Futurebass 2 https://open.spotify.com/album/1peV5NMo6XLO3uyi5MEWE8
 - Riparia Records × On Prism Records / Pardalote https://open.spotify.com/album/03iohTUQ6viw4kZ7QtsKX8
 
-# M3
+# Artists
 
 - Street https://open.spotify.com/artist/5sSdUuww3wQAQzc7GSytF8
 - EmoCosine https://open.spotify.com/artist/6JeMAHza4KM4VaMixmrcIs
