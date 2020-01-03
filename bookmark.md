@@ -8,7 +8,7 @@
 - 6th / HUBRIS https://open.spotify.com/album/3WKHzNqiLkfi9CIJtH2H2A
 - Srav3R / Extra No.3　https://open.spotify.com/album/3kV3FLHuGaLvFq7Uzqcyvn
 
-## Circle 
+## compilation album 
 
 - Prhythmatic Hardcore 2 https://open.spotify.com/album/4NVwGCBiLld73gsKPiMf1V
 - Prhythmatic Futurebass 2 https://open.spotify.com/album/1peV5NMo6XLO3uyi5MEWE8
