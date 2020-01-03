@@ -10,9 +10,10 @@
 
 ## Circle 
 
-- On Prism Records / Prhythmatic Hardcore 2 https://open.spotify.com/album/4NVwGCBiLld73gsKPiMf1V
-- On Prism Records / Prhythmatic Futurebass 2 https://open.spotify.com/album/1peV5NMo6XLO3uyi5MEWE8
-- Riparia Records × On Prism Records / Pardalote https://open.spotify.com/album/03iohTUQ6viw4kZ7QtsKX8
+- Prhythmatic Hardcore 2 https://open.spotify.com/album/4NVwGCBiLld73gsKPiMf1V
+- Prhythmatic Futurebass 2 https://open.spotify.com/album/1peV5NMo6XLO3uyi5MEWE8
+- Pardalote https://open.spotify.com/album/03iohTUQ6viw4kZ7QtsKX8
+- Classical of Psycho 2 https://open.spotify.com/album/0eLiyx8XGTQWvTXWz8lVwW
 
 # Artists
 
