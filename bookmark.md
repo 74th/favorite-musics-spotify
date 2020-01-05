@@ -7,6 +7,7 @@
 - EBIMAYO / GOODREMIXES https://open.spotify.com/album/2zwZY2875VB9QIpDzJYii0
 - 6th / HUBRIS https://open.spotify.com/album/3WKHzNqiLkfi9CIJtH2H2A
 - Srav3R / Extra No.3　https://open.spotify.com/album/3kV3FLHuGaLvFq7Uzqcyvn
+- beignet / re:new Memory https://beignet.bandcamp.com/album/re-new-memory
 
 ## compilation album 
 
