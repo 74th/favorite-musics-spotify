@@ -64,6 +64,8 @@ Spotifyで聞ける好きな音楽。挙げてる曲はハマるきっかけに�
 - 燦鳥ノム https://open.spotify.com/artist/47dWUegQfMWoEuh9lLfIhi?si=2mRzKYqnRu6OZkeXU6seiQ
 - myson book girl https://open.spotify.com/artist/2rkgBTtk0Ec32yjIYsFP87?si=oL9g6GskTsa4EK-mq6kkPA
   - [海と宇宙の子供たち](https://open.spotify.com/album/1tbAs2zSXk2NcQvBTkAvo8?si=5qRGaM2cTXa_QY9zztgrRA)
+- Freezer
+  - https://open.spotify.com/album/2vHW80xiNbfRRBk04HAETD?si=XBkvutlSSjC9fJ1Vno7UYw
 
 # Classic
 
