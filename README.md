@@ -65,12 +65,12 @@ Spotifyで聞ける好きな音楽。挙げてる曲はハマるきっかけに�
 - myson book girl https://open.spotify.com/artist/2rkgBTtk0Ec32yjIYsFP87?si=oL9g6GskTsa4EK-mq6kkPA
   - [海と宇宙の子供たち](https://open.spotify.com/album/1tbAs2zSXk2NcQvBTkAvo8?si=5qRGaM2cTXa_QY9zztgrRA)
 - Freezer https://open.spotify.com/artist/67BCC33Zamb5TdL6di2xi1?si=8VZnY9guRxi8h5K7W-TP5A
-  - Can You Decorate?  https://open.spotify.com/album/2vHW80xiNbfRRBk04HAETD?si=XBkvutlSSjC9fJ1Vno7UYw
+  - Can You Decorate?  https://open.spotify.com/album/2vHW80xiNbfRRBk04HAETD?si=XBkvutlSSjC9fJ1Vno7UY
 
-# Classic
+# Modern Pop
 
-- Maksim https://open.spotify.com/artist/4wlbNIzC1gD2nQ8vFpIWyU?si=YTFttTNiSby0__93qqFpwg
-    - Fight of the Bumblebee https://open.spotify.com/track/0xPw1mI5afePF67VZRDAVJ
+- la la works https://open.spotify.com/artist/5JPztZ2LqAwdoMu2vQFrAQ?si=xsY0CgwsQ-mvDMdIULvtog
+  - [色彩](https://open.spotify.com/track/3soZEQKCYsFcr1w2A4nP0r)
 
 # Pop Rock
 
@@ -78,6 +78,11 @@ Spotifyで聞ける好きな音楽。挙げてる曲はハマるきっかけに�
 - T.M.Revolution x 水樹奈々 https://open.spotify.com/artist/2levLhlMxDgflSy54HmISk?si=nhu7OtbJS2isSnvXOZ07jw
 - Takanori Nishikawa https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz?si=d05lyXSgRr-IzapBxzJFeA
 - Kalafina https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy?si=8xnykqz-RFqgwifKQd8Xow
+
+# Classic
+
+- Maksim https://open.spotify.com/artist/4wlbNIzC1gD2nQ8vFpIWyU?si=YTFttTNiSby0__93qqFpwg
+    - Fight of the Bumblebee https://open.spotify.com/track/0xPw1mI5afePF67VZRDAVJ
 
 # USER
 
