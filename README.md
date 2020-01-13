@@ -81,6 +81,10 @@ Spotifyで聞ける好きな音楽。挙げてる曲はハマるきっかけに�
 - Takanori Nishikawa https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz?si=d05lyXSgRr-IzapBxzJFeA
 - Kalafina https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy?si=8xnykqz-RFqgwifKQd8Xow
 
+# Game
+
+- [Hollow Knight Piano Collections](https://open.spotify.com/album/0v4vTwebMBgz0ih46nysbr?si=upwAgH-eQMKPhARwDtc9jg)
+
 # Classic
 
 - Maksim https://open.spotify.com/artist/4wlbNIzC1gD2nQ8vFpIWyU?si=YTFttTNiSby0__93qqFpwg
