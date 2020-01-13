@@ -71,6 +71,7 @@ Spotifyで聞ける好きな音楽。挙げてる曲はハマるきっかけに�
 
 - la la works https://open.spotify.com/artist/5JPztZ2LqAwdoMu2vQFrAQ?si=xsY0CgwsQ-mvDMdIULvtog
   - [色彩](https://open.spotify.com/track/3soZEQKCYsFcr1w2A4nP0r)
+- fhána https://open.spotify.com/artist/5COrwcYLHQePdWt9V12iqv?si=mjOqql_QQeKfZ6x9aXsVHA
 
 # Pop Rock
 
