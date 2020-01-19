@@ -21,6 +21,8 @@ Spotifyで聞ける好きな音楽。挙げてる曲はハマるきっかけに�
 - Aine https://open.spotify.com/artist/1WO1bVxr2zmJj5vlCHIyl8?si=Ist0-tlRQoCndkeI45Y5Mg spotify:artist:1WO1bVxr2zmJj5vlCHIyl8
     - Life is Kinetics https://open.spotify.com/album/3EZwzgKa0WoFvy6EAeBkdU?si=UfIWE0W-Rd20XmdyuGBrtw
 - Hardcore Tano*C https://open.spotify.com/artist/7Gb9Uu2Lk6tzg0QiBsGx7u
+- Feryquitous https://open.spotify.com/artist/1Dpvdqieoo5Xq3zOWDHp30
+- Lapix https://open.spotify.com/artist/5fIZxtu9KYwRi3MnLEVLCC?si=wuyTR5wsSwKjHkdSRWnvww
 
 # House
 

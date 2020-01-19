@@ -1,4 +1,8 @@
-# M3 2019秋
+# C97 (2019 Winter)
+
+- Loquartz / STYLEY! Vol. 4 https://open.spotify.com/album/1ISedvVkEpgvHHxUFpx10T
+
+# M3 2019 Autumn
 
 - callasoiled / Aci https://open.spotify.com/album/2WJ45Dgesk7atSy3mnnyUo
 - Zekk / Trinity Force https://open.spotify.com/album/179jpFBrWuYOrV6aMdXNYa
@@ -8,8 +12,10 @@
 - 6th / HUBRIS https://open.spotify.com/album/3WKHzNqiLkfi9CIJtH2H2A
 - Srav3R / Extra No.3　https://open.spotify.com/album/3kV3FLHuGaLvFq7Uzqcyvn
 - beignet / re:new Memory https://beignet.bandcamp.com/album/re-new-memory
+- Lilium Records / Rave Inside! https://open.spotify.com/album/0X96O9L2Q2XDAbJRAXUnkj
 
-## compilation album 
+
+## compilation album
 
 - Prhythmatic Hardcore 2 https://open.spotify.com/album/4NVwGCBiLld73gsKPiMf1V
 - Prhythmatic Futurebass 2 https://open.spotify.com/album/1peV5NMo6XLO3uyi5MEWE8
@@ -28,3 +34,6 @@
 - fang https://open.spotify.com/artist/2G7Uffya2ZmUn4z0y9lPDv
 - WHITEFISTS https://open.spotify.com/artist/71RUzAMcCQ5TPupduHhQRk
 - Dustvoxx https://open.spotify.com/artist/7rT2Rg0fVfv3h3OxKG94yp
+- Feryquitous https://open.spotify.com/artist/1Dpvdqieoo5Xq3zOWDHp30
+- ヒゲドライVAN https://open.spotify.com/artist/2YC8PO4FZVZonnwv4uscxb
+- Ottiki https://open.spotify.com/artist/4h279cPvvRHnf0yYEnsrLs
