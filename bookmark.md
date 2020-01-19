@@ -12,7 +12,6 @@
 - 6th / HUBRIS https://open.spotify.com/album/3WKHzNqiLkfi9CIJtH2H2A
 - Srav3R / Extra No.3　https://open.spotify.com/album/3kV3FLHuGaLvFq7Uzqcyvn
 - beignet / re:new Memory https://beignet.bandcamp.com/album/re-new-memory
-- Lilium Records / Rave Inside! https://open.spotify.com/album/0X96O9L2Q2XDAbJRAXUnkj
 
 
 ## compilation album
@@ -21,6 +20,7 @@
 - Prhythmatic Futurebass 2 https://open.spotify.com/album/1peV5NMo6XLO3uyi5MEWE8
 - Pardalote https://open.spotify.com/album/03iohTUQ6viw4kZ7QtsKX8
 - Classical of Psycho 2 https://open.spotify.com/album/0eLiyx8XGTQWvTXWz8lVwW
+- Rave Inside! https://open.spotify.com/album/0X96O9L2Q2XDAbJRAXUnkj
 
 # Artists
 
