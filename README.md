@@ -2,7 +2,6 @@ Spotifyで聞ける好きな音楽。挙げてる曲はハマるきっかけに�
 
 # techno
 
-- Diverse System https://open.spotify.com/artist/6ZE41DsmYRP2W3ACRLD4l1?si=5UpaZdJsRKygTg4x8QZBBA
 - Sakuzyo [@sakuzyo_skz](https://twitter.com/sakuzyo_skz) https://open.spotify.com/artist/53BVcGSlpWPF7iYsSN0Oe1?si=v_KmpLW1RRi1PDjc_LyRDQ
 - Moe Shop https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ?si=7OGsTjJbT0q-VM67v627KA
 - Bitplane https://open.spotify.com/artist/5DirjXq95E30aKz5hQmjDg?si=JVK4uAVITa2xORFQozAkuQ
@@ -23,6 +22,8 @@ Spotifyで聞ける好きな音楽。挙げてる曲はハマるきっかけに�
 - Hardcore Tano*C https://open.spotify.com/artist/7Gb9Uu2Lk6tzg0QiBsGx7u
 - Feryquitous https://open.spotify.com/artist/1Dpvdqieoo5Xq3zOWDHp30
 - Lapix https://open.spotify.com/artist/5fIZxtu9KYwRi3MnLEVLCC?si=wuyTR5wsSwKjHkdSRWnvww
+- t+pazolite https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt
+    - リファクタリング・トラベル https://open.spotify.com/album/5fFNXltIEELVErPcj60UNZ?si=OvMNv4I2Q7aJlKlgcv29PA
 
 # House
 
