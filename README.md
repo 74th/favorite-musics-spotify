@@ -32,6 +32,7 @@ Spotifyで聞ける好きな音楽。挙げてる曲はハマるきっかけに�
 # Easy Techno
 
 - Sasakure.UK [@sasakure__uk](https://twitter.com/sasakure__uk) https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1?si=EQyme-8XRPSi3c2zx_g1JQ
+- アリスシャッハと魔法の楽団 [@Alice_Orchestra](https://twitter.com/Alice_Orchestra)  https://open.spotify.com/artist/1jj5JcHK4rKRFXxVdu7GPx
 
 # Game Music
 
