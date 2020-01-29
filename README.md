@@ -71,6 +71,7 @@ Spotifyで聞ける好きな音楽。挙げてる曲はハマるきっかけに�
 - Freezer https://open.spotify.com/artist/67BCC33Zamb5TdL6di2xi1?si=8VZnY9guRxi8h5K7W-TP5A
   - Can You Decorate?  https://open.spotify.com/album/2vHW80xiNbfRRBk04HAETD?si=XBkvutlSSjC9fJ1Vno7UY
 - CYNHN（スウィーニー） https://open.spotify.com/artist/4zvPQPSgKeFCeHup4yu4Dg
+- さよならポニーテール https://open.spotify.com/artist/67FDqMJvln7C7mZLBMuu1X
 
 # Modern Pop
 
