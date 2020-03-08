@@ -24,6 +24,8 @@ Spotifyで聞ける好きな音楽。挙げてる曲はハマるきっかけに�
 - Lapix https://open.spotify.com/artist/5fIZxtu9KYwRi3MnLEVLCC?si=wuyTR5wsSwKjHkdSRWnvww
 - t+pazolite https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt
     - リファクタリング・トラベル https://open.spotify.com/album/5fFNXltIEELVErPcj60UNZ?si=OvMNv4I2Q7aJlKlgcv29PA
+- shimaL https://open.spotify.com/artist/7HxoMAK5YwhVtPuDoKoJeV
+    - Timescape https://open.spotify.com/album/5mzhGPrYWanf8wzVhYWXF5
 
 # House
 
