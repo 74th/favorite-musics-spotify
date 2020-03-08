@@ -17,6 +17,8 @@ Spotifyで聞ける好きな音楽。挙げてる曲はハマるきっかけに�
 - Silentroom https://open.spotify.com/artist/7LLBCtTpnXXkY6AvW0Qjy9?si=pE5LqCkURk23cwrve5leoA
 - Blacky https://open.spotify.com/artist/3agj022FUnVzfJ2l0aLj3l?si=RAPn3bM6SuGBFjKSgjjpjA
     - P.D.M.\[α\] https://open.spotify.com/album/5IlvBkpafkHbny5yCUR0dV?si=A7YnrmMyTqaLsLiDOuLIug
+    - P.D.M.\[β\] https://open.spotify.com/album/6ZOMvoLDxV3kiJIOl7CHO2
+    - Feel 7he Emotion https://open.spotify.com/album/6fJd3KpMX0M0BLBbrMPMjC
 - Aine https://open.spotify.com/artist/1WO1bVxr2zmJj5vlCHIyl8?si=Ist0-tlRQoCndkeI45Y5Mg spotify:artist:1WO1bVxr2zmJj5vlCHIyl8
     - Life is Kinetics https://open.spotify.com/album/3EZwzgKa0WoFvy6EAeBkdU?si=UfIWE0W-Rd20XmdyuGBrtw
 - Hardcore Tano*C https://open.spotify.com/artist/7Gb9Uu2Lk6tzg0QiBsGx7u
