@@ -3,6 +3,8 @@ Spotifyで聞ける好きな音楽。挙げてる曲はハマるきっかけに�
 # techno
 
 - Sakuzyo [@sakuzyo_skz](https://twitter.com/sakuzyo_skz) https://open.spotify.com/artist/53BVcGSlpWPF7iYsSN0Oe1?si=v_KmpLW1RRi1PDjc_LyRDQ
+    - Last Dance https://open.spotify.com/album/4CnGVticcLdPuoikh6s53m
+    - CRYSTAR Complete Soundtrack https://open.spotify.com/album/1Nn9kn4zU6YKSNYBKNRRy5
 - Moe Shop https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ?si=7OGsTjJbT0q-VM67v627KA
 - Bitplane https://open.spotify.com/artist/5DirjXq95E30aKz5hQmjDg?si=JVK4uAVITa2xORFQozAkuQ
 - Onoken https://open.spotify.com/artist/4bQFn6WUUBu0cgLu9Q9EEv?si=IAAVNQ-bRmSiRcsx_Xa5HQ
@@ -28,6 +30,18 @@ Spotifyで聞ける好きな音楽。挙げてる曲はハマるきっかけに�
     - リファクタリング・トラベル https://open.spotify.com/album/5fFNXltIEELVErPcj60UNZ?si=OvMNv4I2Q7aJlKlgcv29PA
 - shimaL https://open.spotify.com/artist/7HxoMAK5YwhVtPuDoKoJeV
     - Timescape https://open.spotify.com/album/5mzhGPrYWanf8wzVhYWXF5
+- Street https://open.spotify.com/artist/5sSdUuww3wQAQzc7GSytF8
+    - Iroha https://open.spotify.com/album/15mLM0dnqru7dSLVJVrZjW
+    - 海里 https://open.spotify.com/album/7wNhWsBXWpIQqK0kItLyST
+
+## compilation album
+
+- AD:PIANO VII -Alternative- https://open.spotify.com/album/4U9cqGIGq2rui7qiJTJGxl
+- Lilium Records https://open.spotify.com/artist/0ksITYuucFGvvWZFcV7XCH
+- LIPGLOSS RECORDS https://open.spotify.com/artist/2l0idGFVtAKzsOqHoeqfsC
+    - Liberty https://open.spotify.com/album/7d9uymgRIUQHR8J1nmFL94
+- HYBRID MONSTER 5 https://open.spotify.com/album/5YeAUjVjnIckhuZYgjs9dw
+- HYBRID MONSTER 6 https://open.spotify.com/album/39ytDEJ1YknPixbFM0RU4d?highlight=spotify:track:04W23Je97vsjLK8tnlVsgr
 
 # House
 
