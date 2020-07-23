@@ -26,6 +26,7 @@ Spotifyで聞ける好きな音楽。挙げてる曲はハマるきっかけに�
 - Hardcore Tano*C https://open.spotify.com/artist/7Gb9Uu2Lk6tzg0QiBsGx7u
 - Feryquitous https://open.spotify.com/artist/1Dpvdqieoo5Xq3zOWDHp30
 - Lapix https://open.spotify.com/artist/5fIZxtu9KYwRi3MnLEVLCC?si=wuyTR5wsSwKjHkdSRWnvww
+<<<<<<< Updated upstream
 - t+pazolite https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt
     - リファクタリング・トラベル https://open.spotify.com/album/5fFNXltIEELVErPcj60UNZ?si=OvMNv4I2Q7aJlKlgcv29PA
 - shimaL https://open.spotify.com/artist/7HxoMAK5YwhVtPuDoKoJeV
@@ -42,6 +43,8 @@ Spotifyで聞ける好きな音楽。挙げてる曲はハマるきっかけに�
     - Liberty https://open.spotify.com/album/7d9uymgRIUQHR8J1nmFL94
 - HYBRID MONSTER 5 https://open.spotify.com/album/5YeAUjVjnIckhuZYgjs9dw
 - HYBRID MONSTER 6 https://open.spotify.com/album/39ytDEJ1YknPixbFM0RU4d?highlight=spotify:track:04W23Je97vsjLK8tnlVsgr
+=======
+>>>>>>> Stashed changes
 
 # House
 

@@ -37,3 +37,4 @@
 - Feryquitous https://open.spotify.com/artist/1Dpvdqieoo5Xq3zOWDHp30
 - ヒゲドライVAN https://open.spotify.com/artist/2YC8PO4FZVZonnwv4uscxb
 - Ottiki https://open.spotify.com/artist/4h279cPvvRHnf0yYEnsrLs
+- t+pazolite https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt
