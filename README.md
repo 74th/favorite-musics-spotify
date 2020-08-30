@@ -21,18 +21,21 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
   - P.D.M.\[α\] https://open.spotify.com/album/5IlvBkpafkHbny5yCUR0dV?si=A7YnrmMyTqaLsLiDOuLIug
   - P.D.M.\[β\] https://open.spotify.com/album/6ZOMvoLDxV3kiJIOl7CHO2
   - Feel 7he Emotion https://open.spotify.com/album/6fJd3KpMX0M0BLBbrMPMjC
-- Aine https://open.spotify.com/artist/1WO1bVxr2zmJj5vlCHIyl8?si=Ist0-tlRQoCndkeI45Y5Mg spotify:artist:1WO1bVxr2zmJj5vlCHIyl8
-  - Life is Kinetics https://open.spotify.com/album/3EZwzgKa0WoFvy6EAeBkdU?si=UfIWE0W-Rd20XmdyuGBrtw
+- Aine https://open.spotify.com/artist/1WO1bVxr2zmJj5vlCHIyl8
+  - Life is Kinetics https://open.spotify.com/album/3EZwzgKa0WoFvy6EAeBkdU
 - Hardcore Tano\*C https://open.spotify.com/artist/7Gb9Uu2Lk6tzg0QiBsGx7u
 - Feryquitous https://open.spotify.com/artist/1Dpvdqieoo5Xq3zOWDHp30
-- Lapix https://open.spotify.com/artist/5fIZxtu9KYwRi3MnLEVLCC?si=wuyTR5wsSwKjHkdSRWnvww
+- Lapix https://open.spotify.com/artist/5fIZxtu9KYwRi3MnLEVLCC
 - t+pazolite https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt
-  - リファクタリング・トラベル https://open.spotify.com/album/5fFNXltIEELVErPcj60UNZ?si=OvMNv4I2Q7aJlKlgcv29PA
+  - リファクタリング・トラベル https://open.spotify.com/album/5fFNXltIEELVErPcj60UNZ
 - shimaL https://open.spotify.com/artist/7HxoMAK5YwhVtPuDoKoJeV
   - Timescape https://open.spotify.com/album/5mzhGPrYWanf8wzVhYWXF5
 - Street https://open.spotify.com/artist/5sSdUuww3wQAQzc7GSytF8
   - Iroha https://open.spotify.com/album/15mLM0dnqru7dSLVJVrZjW
   - 海里 https://open.spotify.com/album/7wNhWsBXWpIQqK0kItLyST
+- ゆう https://open.spotify.com/artist/7b84Qty3ghHQz8omvoXSPH
+  - PAINTER https://open.spotify.com/artist/7b84Qty3ghHQz8omvoXSPH
+- Tettris Effect(Original Soundtrack) https://open.spotify.com/album/6LRUdnlY48RCXDLIOVgXDS
 
 ## compilation album
 
@@ -41,7 +44,7 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
 - LIPGLOSS RECORDS https://open.spotify.com/artist/2l0idGFVtAKzsOqHoeqfsC
   - Liberty https://open.spotify.com/album/7d9uymgRIUQHR8J1nmFL94
 - HYBRID MONSTER 5 https://open.spotify.com/album/5YeAUjVjnIckhuZYgjs9dw
-- HYBRID MONSTER 6 https://open.spotify.com/album/39ytDEJ1YknPixbFM0RU4d?highlight=spotify:track:04W23Je97vsjLK8tnlVsgr
+- HYBRID MONSTER 6 https://open.spotify.com/album/39ytDEJ1YknPixbFM0RU4d
 
 # House
 
@@ -55,39 +58,39 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
 # Game Music
 
 - RichaadEB https://open.spotify.com/artist/4IF11U0nzFhAaLDGZH3vSx?si=MwGEp9CXQJ-SZw929HKm_g
-  - Bad Apple!! https://open.spotify.com/track/291GC2OHXnAKX7sV1JOKFF?si=jtvjxRJBS2ifEDKh0WaBFA
+  - Bad Apple!! https://open.spotify.com/track/291GC2OHXnAKX7sV1JOKFF
 
 # Jazz Techono
 
-- Jazztronik https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM?si=yvjsQcBzR5uP7alkOMYImQ
+- Jazztronik https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM
 
 # Ska Jazz
 
 - ★Soil & "Pimp" Sessions https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF
-  - ★No Taboo https://open.spotify.com/track/1HT3ls3pJttOIm1OmkhFtl?si=g2TunSrAQAynqmPPzg1Mhw
-- JABBERLOOP https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2?si=U183HPJYStKMll4uyReYQQ
-- H ZETTORIO https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY?si=ahTfjhjUQrW_gHgPjeGGJA
+  - ★No Taboo https://open.spotify.com/track/1HT3ls3pJttOIm1OmkhFtl
+- JABBERLOOP https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2
+- H ZETTORIO https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY
 
 # Jazz Piano
 
-- ★ 上原ひろみ https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc?si=RlfMz9WESIeqiXiqavVvJw
-- ★ 山中千尋 https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD?si=jFCWByIRTbOLFcSUh_Czkw
-  - XYZ https://open.spotify.com/track/32Qj6lL4GT387m8BJPx4mB?si=6hgW3DUOQxW9LNj4iH5mfQ
+- ★ 上原ひろみ https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc
+- ★ 山中千尋 https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD
+  - XYZ https://open.spotify.com/track/32Qj6lL4GT387m8BJPx4mB
 
 # Cute Pop
 
-- ClariS https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3?si=tVnnLGqYSAaPLbgGmr7bPA
-  - ヒトリゴト https://open.spotify.com/track/4OnP4Lz75YkFaO3I96Gdsz?si=UeE-bHT7RTW2cjwXLfhcDw
-- 糸奇はな https://open.spotify.com/artist/4Ak0QNdKtwdmUrTfTMAsBU?si=haKVZdsLTBSwggqtFDUBCQ
-- ★ やなぎなぎ https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo?si=YqjqL3uBT-qrPNNvgxUYzg
-- ★binaria https://open.spotify.com/artist/3SkdXeqJHKFNXuaHvrj1pL?si=hJJpIhe7R1qERi25Ws5hnw
-  - カミイロアワセ https://open.spotify.com/track/77spgc3VsjeFMi8ged5cOO?si=zyvbm6MsRvSaEZKqKURmbg
-- ずっと真夜中でいいのに https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj?si=P5HAhP7QSmiggAHxe3Er9g
-- 燦鳥ノム https://open.spotify.com/artist/47dWUegQfMWoEuh9lLfIhi?si=2mRzKYqnRu6OZkeXU6seiQ
-- myson book girl https://open.spotify.com/artist/2rkgBTtk0Ec32yjIYsFP87?si=oL9g6GskTsa4EK-mq6kkPA
-  - [海と宇宙の子供たち](https://open.spotify.com/album/1tbAs2zSXk2NcQvBTkAvo8?si=5qRGaM2cTXa_QY9zztgrRA)
+- ClariS https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim
+  - ヒトリゴト https://open.spotify.com/track/4OnP4Lz75YkFaO3I96Gdsz
+- 糸奇はな https://open.spotify.com/artist/4Ak0QNdKtwdmUrTfTMAsBU
+- ★ やなぎなぎ https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo
+- ★binaria https://open.spotify.com/artist/3SkdXeqJHKFNXuaHvrj1pL
+  - カミイロアワセ https://open.spotify.com/track/77spgc3VsjeFMi8ged5cOO
+- ずっと真夜中でいいのに https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj
+- 燦鳥ノム https://open.spotify.com/artist/47dWUegQfMWoEuh9lLfIhi
+- myson book girl https://open.spotify.com/artist/2rkgBTtk0Ec32yjIYsFP87
+  - [海と宇宙の子供たち](https://open.spotify.com/album/1tbAs2zSXk2NcQvBTkAvo8
 - Freezer https://open.spotify.com/artist/67BCC33Zamb5TdL6di2xi1?si=8VZnY9guRxi8h5K7W-TP5A
-  - Can You Decorate? https://open.spotify.com/album/2vHW80xiNbfRRBk04HAETD?si=XBkvutlSSjC9fJ1Vno7UY
+  - Can You Decorate? https://open.spotify.com/album/2vHW80xiNbfRRBk04HAETD
 - CYNHN（スウィーニー） https://open.spotify.com/artist/4zvPQPSgKeFCeHup4yu4Dg
 - さよならポニーテール https://open.spotify.com/artist/67FDqMJvln7C7mZLBMuu1X
 - 坂本真綾 https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw
@@ -96,24 +99,24 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
 
 # Modern Pop
 
-- la la works https://open.spotify.com/artist/5JPztZ2LqAwdoMu2vQFrAQ?si=xsY0CgwsQ-mvDMdIULvtog
+- la la works https://open.spotify.com/artist/5JPztZ2LqAwdoMu2vQFrAQ
   - [色彩](https://open.spotify.com/track/3soZEQKCYsFcr1w2A4nP0r)
-- fhána https://open.spotify.com/artist/5COrwcYLHQePdWt9V12iqv?si=mjOqql_QQeKfZ6x9aXsVHA
+- fhána https://open.spotify.com/artist/5COrwcYLHQePdWt9V12iqv
 
 # Pop Rock
 
-- T.M.Revolution https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr?si=z2hE1vfDTxKZdJf6jrbzFA
-- T.M.Revolution x 水樹奈々 https://open.spotify.com/artist/2levLhlMxDgflSy54HmISk?si=nhu7OtbJS2isSnvXOZ07jw
-- Takanori Nishikawa https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz?si=d05lyXSgRr-IzapBxzJFeA
-- Kalafina https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy?si=8xnykqz-RFqgwifKQd8Xow
+- T.M.Revolution https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr
+- T.M.Revolution x 水樹奈々 https://open.spotify.com/artist/2levLhlMxDgflSy54HmISk
+- Takanori Nishikawa https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz
+- Kalafina https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy
 
 # Game
 
-- [Hollow Knight Piano Collections](https://open.spotify.com/album/0v4vTwebMBgz0ih46nysbr?si=upwAgH-eQMKPhARwDtc9jg)
+- [Hollow Knight Piano Collections](https://open.spotify.com/album/0v4vTwebMBgz0ih46nysbr)
 
 # Classic
 
-- Maksim https://open.spotify.com/artist/4wlbNIzC1gD2nQ8vFpIWyU?si=YTFttTNiSby0__93qqFpwg
+- Maksim https://open.spotify.com/artist/4wlbNIzC1gD2nQ8vFpIWyU
   - Fight of the Bumblebee https://open.spotify.com/track/0xPw1mI5afePF67VZRDAVJ
 
 # USER
