@@ -2,23 +2,24 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
 
 # techno
 
-- Sakuzyo [@sakuzyo_skz](https://twitter.com/sakuzyo_skz) https://open.spotify.com/artist/53BVcGSlpWPF7iYsSN0Oe1?si=v_KmpLW1RRi1PDjc_LyRDQ
+- Sakuzyo [@sakuzyo_skz](https://twitter.com/sakuzyo_skz) https://open.spotify.com/artist/53BVcGSlpWPF7iYsSN0Oe1
   - Last Dance https://open.spotify.com/album/4CnGVticcLdPuoikh6s53m
   - CRYSTAR Complete Soundtrack https://open.spotify.com/album/1Nn9kn4zU6YKSNYBKNRRy5
-- Moe Shop https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ?si=7OGsTjJbT0q-VM67v627KA
-- Bitplane https://open.spotify.com/artist/5DirjXq95E30aKz5hQmjDg?si=JVK4uAVITa2xORFQozAkuQ
-- Onoken https://open.spotify.com/artist/4bQFn6WUUBu0cgLu9Q9EEv?si=IAAVNQ-bRmSiRcsx_Xa5HQ
-  - felys https://open.spotify.com/track/0iG7fjaiuBXDW0eX7zSUl0?si=szQW4CY_Qym2hC5_ZnvM4g
-- REDALiCE https://open.spotify.com/artist/3m63JSv6jhLEKNXcEd5EUK?si=xQq1h_uYR6u1DSuthM_I5Q
-- KOTONOHOUSE https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC?si=LuES-ZpPTZOdjTAc5xB0sw
-- 中田ヤスタカ https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG?si=LneNZUCFRky3UMl5SjflUg
-- Perfume https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr?si=RgbxdvcUSHSwBqsCPin0Hw
-- XI https://open.spotify.com/artist/0bwKEOznEbnmCK85SPEYuK?si=D-e9oHN4RBiF0qf-mZvEUQ
-- Wisp X https://open.spotify.com/artist/6qxhZqIAvYzDVKIyyYtVlX?si=-dSmHu2YT5-kUyvMg0TrZg
-- callasoiled https://open.spotify.com/artist/7aZvrOvlYcdjv1KjjnoFzc?si=upgeRJZwRsmAiUOzAwIZQw
-- Silentroom https://open.spotify.com/artist/7LLBCtTpnXXkY6AvW0Qjy9?si=pE5LqCkURk23cwrve5leoA
-- Blacky https://open.spotify.com/artist/3agj022FUnVzfJ2l0aLj3l?si=RAPn3bM6SuGBFjKSgjjpjA
-  - P.D.M.\[α\] https://open.spotify.com/album/5IlvBkpafkHbny5yCUR0dV?si=A7YnrmMyTqaLsLiDOuLIug
+- Moe Shop https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ
+- Bitplane https://open.spotify.com/artist/5DirjXq95E30aKz5hQmjDg
+- Onoken https://open.spotify.com/artist/4bQFn6WUUBu0cgLu9Q9EEv
+  - felys https://open.spotify.com/track/0iG7fjaiuBXDW0eX7zSUl0
+- REDALiCE https://open.spotify.com/artist/3m63JSv6jhLEKNXcEd5EUK
+- KOTONOHOUSE https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC
+- 中田ヤスタカ https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG
+- Perfume https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr
+- XI https://open.spotify.com/artist/0bwKEOznEbnmCK85SPEYuK
+- Wisp X https://open.spotify.com/artist/6qxhZqIAvYzDVKIyyYtVlX
+- ★ callasoiled https://open.spotify.com/artist/7aZvrOvlYcdjv1KjjnoFzc
+  - kalel https://open.spotify.com/album/7qwVB9ghYxkHjMNiDPVCVy
+- Silentroom https://open.spotify.com/artist/7LLBCtTpnXXkY6AvW0Qjy9
+- Blacky https://open.spotify.com/artist/3agj022FUnVzfJ2l0aLj3l
+  - P.D.M.\[α\] https://open.spotify.com/album/5IlvBkpafkHbny5yCUR0dV
   - P.D.M.\[β\] https://open.spotify.com/album/6ZOMvoLDxV3kiJIOl7CHO2
   - Feel 7he Emotion https://open.spotify.com/album/6fJd3KpMX0M0BLBbrMPMjC
 - Aine https://open.spotify.com/artist/1WO1bVxr2zmJj5vlCHIyl8
@@ -52,12 +53,12 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
 
 # Easy Techno
 
-- Sasakure.UK [@sasakure\_\_uk](https://twitter.com/sasakure__uk) https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1?si=EQyme-8XRPSi3c2zx_g1JQ
+- Sasakure.UK [@sasakure\_\_uk](https://twitter.com/sasakure__uk) https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1
 - アリスシャッハと魔法の楽団 [@Alice_Orchestra](https://twitter.com/Alice_Orchestra) https://open.spotify.com/artist/1jj5JcHK4rKRFXxVdu7GPx
 
 # Game Music
 
-- RichaadEB https://open.spotify.com/artist/4IF11U0nzFhAaLDGZH3vSx?si=MwGEp9CXQJ-SZw929HKm_g
+- RichaadEB https://open.spotify.com/artist/4IF11U0nzFhAaLDGZH3vSx
   - Bad Apple!! https://open.spotify.com/track/291GC2OHXnAKX7sV1JOKFF
 
 # Jazz Techono
@@ -89,7 +90,7 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
 - 燦鳥ノム https://open.spotify.com/artist/47dWUegQfMWoEuh9lLfIhi
 - myson book girl https://open.spotify.com/artist/2rkgBTtk0Ec32yjIYsFP87
   - [海と宇宙の子供たち](https://open.spotify.com/album/1tbAs2zSXk2NcQvBTkAvo8
-- Freezer https://open.spotify.com/artist/67BCC33Zamb5TdL6di2xi1?si=8VZnY9guRxi8h5K7W-TP5A
+- Freezer https://open.spotify.com/artist/67BCC33Zamb5TdL6di2xi1
   - Can You Decorate? https://open.spotify.com/album/2vHW80xiNbfRRBk04HAETD
 - CYNHN（スウィーニー） https://open.spotify.com/artist/4zvPQPSgKeFCeHup4yu4Dg
 - さよならポニーテール https://open.spotify.com/artist/67FDqMJvln7C7mZLBMuu1X
@@ -121,4 +122,4 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
 
 # USER
 
-- [ヒーホー](https://open.spotify.com/user/j5u8csody72lmtsl2j3o3g1fs?si=ry6tsFMXTuqzp7kL0GqJlQ)
+- [ヒーホー](https://open.spotify.com/user/j5u8csody72lmtsl2j3o3g1fs)
