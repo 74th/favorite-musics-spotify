@@ -8,7 +8,8 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
 - Moe Shop https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ
 - Bitplane https://open.spotify.com/artist/5DirjXq95E30aKz5hQmjDg
 - Onoken https://open.spotify.com/artist/4bQFn6WUUBu0cgLu9Q9EEv
-  - felys https://open.spotify.com/track/0iG7fjaiuBXDW0eX7zSUl0
+  - felys https://open.spotify.com/track/3Hc2p8YidWj1uJKHOaJptm?si=FYXUDdbgR_iewMpQB9UWhg
+  - felys Artcore Collection https://open.spotify.com/album/3C6gSw5ybOLACNRrxy0FKE?highlight=spotify:track:3Hc2p8YidWj1uJKHOaJptm
 - REDALiCE https://open.spotify.com/artist/3m63JSv6jhLEKNXcEd5EUK
 - KOTONOHOUSE https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC
 - 中田ヤスタカ https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG
