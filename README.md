@@ -38,6 +38,8 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
 - ゆう https://open.spotify.com/artist/7b84Qty3ghHQz8omvoXSPH
   - PAINTER https://open.spotify.com/artist/7b84Qty3ghHQz8omvoXSPH
 - Tettris Effect(Original Soundtrack) https://open.spotify.com/album/6LRUdnlY48RCXDLIOVgXDS
+- Lena Raine https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z
+  - Reknowing https://open.spotify.com/album/70OMbDXDxjKnVvZvQL8akK?si=p3SVskhDTnGDv4EYRFC5Rg
 
 ## compilation album
 
