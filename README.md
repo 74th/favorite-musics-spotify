@@ -70,6 +70,8 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
 # Jazz Techono
 
 - Jazztronik https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM
+- fox capture plan https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo
+  - another day https://open.spotify.com/album/33ibRnO3liMISpQI7LZSux
 
 # Ska Jazz
 
