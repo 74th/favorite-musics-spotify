@@ -66,6 +66,11 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
 
 - RichaadEB https://open.spotify.com/artist/4IF11U0nzFhAaLDGZH3vSx
   - Bad Apple!! https://open.spotify.com/track/291GC2OHXnAKX7sV1JOKFF
+  
+# instrumental
+
+- SANOVA https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt?si=WwZKV6GqThW-8lUn-HdzFQ
+  - ZIPANG 弐nd https://open.spotify.com/album/39c02j5uv4sOAD1sx1yV8q
 
 # Jazz Techono
 
