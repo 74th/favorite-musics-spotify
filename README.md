@@ -2,40 +2,40 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
 
 # techno
 
-- Sakuzyo [@sakuzyo_skz](https://twitter.com/sakuzyo_skz) https://open.spotify.com/artist/53BVcGSlpWPF7iYsSN0Oe1
+- Sakuzyo [tw](https://twitter.com/sakuzyo_skz) https://open.spotify.com/artist/53BVcGSlpWPF7iYsSN0Oe1
   - Last Dance https://open.spotify.com/album/4CnGVticcLdPuoikh6s53m
   - CRYSTAR Complete Soundtrack https://open.spotify.com/album/1Nn9kn4zU6YKSNYBKNRRy5
 - Moe Shop https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ
 - Bitplane https://open.spotify.com/artist/5DirjXq95E30aKz5hQmjDg
-- Onoken https://open.spotify.com/artist/4bQFn6WUUBu0cgLu9Q9EEv
+- Onoken [tw](https://twitter.com/ax_onoken) https://open.spotify.com/artist/4bQFn6WUUBu0cgLu9Q9EEv
   - felys https://open.spotify.com/track/3Hc2p8YidWj1uJKHOaJptm?si=FYXUDdbgR_iewMpQB9UWhg
   - felys Artcore Collection https://open.spotify.com/album/3C6gSw5ybOLACNRrxy0FKE?highlight=spotify:track:3Hc2p8YidWj1uJKHOaJptm
-- REDALiCE https://open.spotify.com/artist/3m63JSv6jhLEKNXcEd5EUK
-- KOTONOHOUSE https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC
+- REDALiCE [tw](https://twitter.com/redalice) https://open.spotify.com/artist/3m63JSv6jhLEKNXcEd5EUK
+- KOTONOHOUSE [tw](https://twitter.com/KOTONOHOUSE) https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC
 - 中田ヤスタカ https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG
 - Perfume https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr
-- XI https://open.spotify.com/artist/0bwKEOznEbnmCK85SPEYuK
+- XI [tw](https://twitter.com/com_giko_31) https://open.spotify.com/artist/0bwKEOznEbnmCK85SPEYuK
 - Wisp X https://open.spotify.com/artist/6qxhZqIAvYzDVKIyyYtVlX
-- ★ callasoiled https://open.spotify.com/artist/7aZvrOvlYcdjv1KjjnoFzc
+- ★ callasoiled [tw](https://twitter.com/callasoiled) https://open.spotify.com/artist/7aZvrOvlYcdjv1KjjnoFzc
   - kalel https://open.spotify.com/album/7qwVB9ghYxkHjMNiDPVCVy
 - Silentroom https://open.spotify.com/artist/7LLBCtTpnXXkY6AvW0Qjy9
-- Blacky https://open.spotify.com/artist/3agj022FUnVzfJ2l0aLj3l
+- Blacky [tw](https://twitter.com/blacky_bemani) https://open.spotify.com/artist/3agj022FUnVzfJ2l0aLj3l
   - P.D.M.\[α\] https://open.spotify.com/album/5IlvBkpafkHbny5yCUR0dV
   - P.D.M.\[β\] https://open.spotify.com/album/6ZOMvoLDxV3kiJIOl7CHO2
   - Feel 7he Emotion https://open.spotify.com/album/6fJd3KpMX0M0BLBbrMPMjC
 - Aine https://open.spotify.com/artist/1WO1bVxr2zmJj5vlCHIyl8
   - Life is Kinetics https://open.spotify.com/album/3EZwzgKa0WoFvy6EAeBkdU
 - Hardcore Tano\*C https://open.spotify.com/artist/7Gb9Uu2Lk6tzg0QiBsGx7u
-- Feryquitous https://open.spotify.com/artist/1Dpvdqieoo5Xq3zOWDHp30
-- Lapix https://open.spotify.com/artist/5fIZxtu9KYwRi3MnLEVLCC
-- t+pazolite https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt
+- Feryquitous [tw](https://twitter.com/feryquitous_) https://open.spotify.com/artist/1Dpvdqieoo5Xq3zOWDHp30
+- Lapix [tw](https://twitter.com/_lapix_) https://open.spotify.com/artist/5fIZxtu9KYwRi3MnLEVLCC
+- t+pazolite [tw](https://twitter.com/tpazolite) https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt
   - リファクタリング・トラベル https://open.spotify.com/album/5fFNXltIEELVErPcj60UNZ
-- shimaL https://open.spotify.com/artist/7HxoMAK5YwhVtPuDoKoJeV
+- shimaL [tw](https://twitter.com/shimaru_440) https://open.spotify.com/artist/7HxoMAK5YwhVtPuDoKoJeV
   - Timescape https://open.spotify.com/album/5mzhGPrYWanf8wzVhYWXF5
-- Street https://open.spotify.com/artist/5sSdUuww3wQAQzc7GSytF8
+- Street [tw](https://streetjpofficial.com/) https://open.spotify.com/artist/5sSdUuww3wQAQzc7GSytF8
   - Iroha https://open.spotify.com/album/15mLM0dnqru7dSLVJVrZjW
   - 海里 https://open.spotify.com/album/7wNhWsBXWpIQqK0kItLyST
-- ゆう https://open.spotify.com/artist/7b84Qty3ghHQz8omvoXSPH
+- ゆう [tw](https://twitter.com/___youkun___) https://open.spotify.com/artist/7b84Qty3ghHQz8omvoXSPH
   - PAINTER https://open.spotify.com/artist/7b84Qty3ghHQz8omvoXSPH
 - Tettris Effect(Original Soundtrack) https://open.spotify.com/album/6LRUdnlY48RCXDLIOVgXDS
 - Lena Raine https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z
@@ -59,7 +59,7 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
 
 - Sasakure.UK [@sasakure\_\_uk](https://twitter.com/sasakure__uk) https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1
 - アリスシャッハと魔法の楽団 [@Alice_Orchestra](https://twitter.com/Alice_Orchestra) https://open.spotify.com/artist/1jj5JcHK4rKRFXxVdu7GPx
-- ミツキヨ https://open.spotify.com/artist/2yzcoSqo3ZOCguk7T0Msa9
+- ミツキヨ [tw](https://twitter.com/mitsukiyo_5) https://open.spotify.com/artist/2yzcoSqo3ZOCguk7T0Msa9
   - 夢箱 https://open.spotify.com/album/5h0z0KlN9PiEh5Ui5uoIsj
   
 # Game Music
