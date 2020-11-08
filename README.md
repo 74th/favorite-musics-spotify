@@ -41,7 +41,6 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
 - Lena Raine https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z
   - Reknowing https://open.spotify.com/album/70OMbDXDxjKnVvZvQL8akK?si=p3SVskhDTnGDv4EYRFC5Rg
 
-
 ## compilation album
 
 - AD:PIANO VII -Alternative- https://open.spotify.com/album/4U9cqGIGq2rui7qiJTJGxl
@@ -58,6 +57,8 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
 # Easy Techno
 
 - Sasakure.UK [@sasakure\_\_uk](https://twitter.com/sasakure__uk) https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1
+- 雄之助 [@bass_ynk](https://twitter.com/bass_ynk) https://open.spotify.com/artist/2JVKMrMR8PZohnjTIhY3Ks
+  - Proto https://open.spotify.com/album/6wgQ9BTkUjhiPfL9dYllhq
 - アリスシャッハと魔法の楽団 [@Alice_Orchestra](https://twitter.com/Alice_Orchestra) https://open.spotify.com/artist/1jj5JcHK4rKRFXxVdu7GPx
 - ミツキヨ [tw](https://twitter.com/mitsukiyo_5) https://open.spotify.com/artist/2yzcoSqo3ZOCguk7T0Msa9
   - 夢箱 https://open.spotify.com/album/5h0z0KlN9PiEh5Ui5uoIsj
