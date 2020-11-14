@@ -93,6 +93,7 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
 - ⭐ 上原ひろみ https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc
 - ⭐ 山中千尋 https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD
   - XYZ https://open.spotify.com/track/32Qj6lL4GT387m8BJPx4mB
+- 片倉真由子 https://open.spotify.com/artist/5eP9be2Y1fGaWTQqvbF4hG
 
 # Cute Pop
 
