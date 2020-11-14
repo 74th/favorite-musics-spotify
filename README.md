@@ -12,6 +12,7 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
   - felys Artcore Collection https://open.spotify.com/album/3C6gSw5ybOLACNRrxy0FKE?highlight=spotify:track:3Hc2p8YidWj1uJKHOaJptm
 - REDALiCE [tw](https://twitter.com/redalice) https://open.spotify.com/artist/3m63JSv6jhLEKNXcEd5EUK
 - KOTONOHOUSE [tw](https://twitter.com/KOTONOHOUSE) https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC
+  - Synchronicity https://open.spotify.com/album/57BnqhiPFwjhlkR5Zrzyjp
 - 中田ヤスタカ https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG
 - Perfume https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr
 - XI [tw](https://twitter.com/com_giko_31) https://open.spotify.com/artist/0bwKEOznEbnmCK85SPEYuK
@@ -58,8 +59,8 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
 
 # Easy Techno
 
-- Sasakure.UK [@sasakure\_\_uk](https://twitter.com/sasakure__uk) https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1
-- 雄之助 [@bass_ynk](https://twitter.com/bass_ynk) https://open.spotify.com/artist/2JVKMrMR8PZohnjTIhY3Ks
+- Sasakure.UK [tw](https://twitter.com/sasakure__uk) https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1
+- 雄之助 [tw](https://twitter.com/bass_ynk) https://open.spotify.com/artist/2JVKMrMR8PZohnjTIhY3Ks
   - Proto https://open.spotify.com/album/6wgQ9BTkUjhiPfL9dYllhq
 - アリスシャッハと魔法の楽団 [@Alice_Orchestra](https://twitter.com/Alice_Orchestra) https://open.spotify.com/artist/1jj5JcHK4rKRFXxVdu7GPx
 - ミツキヨ [tw](https://twitter.com/mitsukiyo_5) https://open.spotify.com/artist/2yzcoSqo3ZOCguk7T0Msa9
