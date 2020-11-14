@@ -40,6 +40,8 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
 - Tettris Effect(Original Soundtrack) https://open.spotify.com/album/6LRUdnlY48RCXDLIOVgXDS
 - Lena Raine https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z
   - Reknowing https://open.spotify.com/album/70OMbDXDxjKnVvZvQL8akK?si=p3SVskhDTnGDv4EYRFC5Rg
+- Sanaas [tw](https://twitter.com/_sanaas) https://open.spotify.com/artist/3dJ5mXNLhIElreO64ian8W
+  - Astroider https://open.spotify.com/album/6XruvEYnWUdcnBTJxI09gs
 
 ## compilation album
 
