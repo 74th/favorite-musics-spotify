@@ -52,6 +52,7 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
   - Liberty https://open.spotify.com/album/7d9uymgRIUQHR8J1nmFL94
 - HYBRID MONSTER 5 https://open.spotify.com/album/5YeAUjVjnIckhuZYgjs9dw
 - HYBRID MONSTER 6 https://open.spotify.com/album/39ytDEJ1YknPixbFM0RU4d
+- RIPARIA:04 -clearly- https://open.spotify.com/album/1JY4TDO7ZhwqbNxYdgBOMT
 
 # House
 
