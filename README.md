@@ -63,7 +63,7 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
 - Sasakure.UK [tw](https://twitter.com/sasakure__uk) https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1
 - 雄之助 [tw](https://twitter.com/bass_ynk) https://open.spotify.com/artist/2JVKMrMR8PZohnjTIhY3Ks
   - Proto https://open.spotify.com/album/6wgQ9BTkUjhiPfL9dYllhq
-- アリスシャッハと魔法の楽団 [@Alice_Orchestra](https://twitter.com/Alice_Orchestra) https://open.spotify.com/artist/1jj5JcHK4rKRFXxVdu7GPx
+- アリスシャッハと魔法の楽団 [tw](https://twitter.com/Alice_Orchestra) https://open.spotify.com/artist/1jj5JcHK4rKRFXxVdu7GPx
 - ミツキヨ [tw](https://twitter.com/mitsukiyo_5) https://open.spotify.com/artist/2yzcoSqo3ZOCguk7T0Msa9
   - 夢箱 https://open.spotify.com/album/5h0z0KlN9PiEh5Ui5uoIsj
   
@@ -114,14 +114,14 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
 - CYNHN（スウィーニー） https://open.spotify.com/artist/4zvPQPSgKeFCeHup4yu4Dg
 - さよならポニーテール https://open.spotify.com/artist/67FDqMJvln7C7mZLBMuu1X
 - 坂本真綾 https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw
-  - [今日だけの音楽](https://open.spotify.com/album/2f2QiMAQjOGEBiierxdOI6)
-  - [25 周年記念アルバムシングルコレクション+ アチコチ](https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf)
+  - 今日だけの音楽 https://open.spotify.com/album/2f2QiMAQjOGEBiierxdOI6
+  - 25 周年記念アルバムシングルコレクション+ アチコチ https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf
 - ヨルシカ https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik
 
 # Modern Pop
 
 - la la works https://open.spotify.com/artist/5JPztZ2LqAwdoMu2vQFrAQ
-  - [色彩](https://open.spotify.com/track/3soZEQKCYsFcr1w2A4nP0r)
+  - 色彩 https://open.spotify.com/track/3soZEQKCYsFcr1w2A4nP0r)
 - fhána https://open.spotify.com/artist/5COrwcYLHQePdWt9V12iqv
   - 風を食む https://open.spotify.com/track/68OYaxreTGmAuD9cAztr2p?si=Cycc3_xjQ56oLOjaPgHfGA
   
@@ -134,7 +134,7 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
 
 # Game
 
-- [Hollow Knight Piano Collections](https://open.spotify.com/album/0v4vTwebMBgz0ih46nysbr)
+- [Hollow Knight Piano Collections https://open.spotify.com/album/0v4vTwebMBgz0ih46nysbr
 
 # Classic
 
