@@ -109,7 +109,7 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
 - ずっと真夜中でいいのに https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj
 - 燦鳥ノム https://open.spotify.com/artist/47dWUegQfMWoEuh9lLfIhi
 - myson book girl https://open.spotify.com/artist/2rkgBTtk0Ec32yjIYsFP87
-  - [海と宇宙の子供たち](https://open.spotify.com/album/1tbAs2zSXk2NcQvBTkAvo8
+  - 海と宇宙の子供たち https://open.spotify.com/album/1tbAs2zSXk2NcQvBTkAvo8
 - Freezer https://open.spotify.com/artist/67BCC33Zamb5TdL6di2xi1
   - Can You Decorate? https://open.spotify.com/album/2vHW80xiNbfRRBk04HAETD
 - CYNHN（スウィーニー） https://open.spotify.com/artist/4zvPQPSgKeFCeHup4yu4Dg
