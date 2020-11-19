@@ -20,7 +20,7 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
 - ★ callasoiled [tw](https://twitter.com/callasoiled) https://open.spotify.com/artist/7aZvrOvlYcdjv1KjjnoFzc
   - kalel https://open.spotify.com/album/7qwVB9ghYxkHjMNiDPVCVy
 - Silentroom https://open.spotify.com/artist/7LLBCtTpnXXkY6AvW0Qjy9
-- Blacky [tw](https://twitter.com/blacky_bemani) https://open.spotify.com/artist/3agj022FUnVzfJ2l0aLj3l
+- Blacky [tw](https://twitter.com/blacky_bemani) https://open.spotify.com/artist/4IsgVdOy2TTOTPArjMzDNp
   - P.D.M.\[α\] https://open.spotify.com/album/5IlvBkpafkHbny5yCUR0dV
   - P.D.M.\[β\] https://open.spotify.com/album/6ZOMvoLDxV3kiJIOl7CHO2
   - Feel 7he Emotion https://open.spotify.com/album/6fJd3KpMX0M0BLBbrMPMjC
