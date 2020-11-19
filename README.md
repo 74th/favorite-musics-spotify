@@ -53,6 +53,7 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
 - HYBRID MONSTER 5 https://open.spotify.com/album/5YeAUjVjnIckhuZYgjs9dw
 - HYBRID MONSTER 6 https://open.spotify.com/album/39ytDEJ1YknPixbFM0RU4d
 - RIPARIA:04 -clearly- https://open.spotify.com/album/1JY4TDO7ZhwqbNxYdgBOMT
+- Tone Sphere Ultra Service https://open.spotify.com/album/3isscH1UZ9yzIzXRCahtdz
 
 # House
 
