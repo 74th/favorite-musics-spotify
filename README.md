@@ -44,9 +44,14 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
 - Sanaas [tw](https://twitter.com/_sanaas) https://open.spotify.com/artist/3dJ5mXNLhIElreO64ian8W
   - Astroider https://open.spotify.com/album/6XruvEYnWUdcnBTJxI09gs
 
-## compilation album
+## Diverse System
 
 - AD:PIANO VII -Alternative- https://open.spotify.com/album/4U9cqGIGq2rui7qiJTJGxl
+- AD:PIANO ff / pp https://open.spotify.com/album/5rL0JKcxPirkyyE8DHqEa1
+- AD:HOUSE Winter https://open.spotify.com/album/0qyiVGW8FQhfvL49zI7U8N
+
+## compilation album
+
 - Lilium Records https://open.spotify.com/artist/0ksITYuucFGvvWZFcV7XCH
 - LIPGLOSS RECORDS https://open.spotify.com/artist/2l0idGFVtAKzsOqHoeqfsC
   - Liberty https://open.spotify.com/album/7d9uymgRIUQHR8J1nmFL94
@@ -67,16 +72,16 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
 - アリスシャッハと魔法の楽団 [tw](https://twitter.com/Alice_Orchestra) https://open.spotify.com/artist/1jj5JcHK4rKRFXxVdu7GPx
 - ミツキヨ [tw](https://twitter.com/mitsukiyo_5) https://open.spotify.com/artist/2yzcoSqo3ZOCguk7T0Msa9
   - 夢箱 https://open.spotify.com/album/5h0z0KlN9PiEh5Ui5uoIsj
-  
+
 # Game Music
 
 - RichaadEB https://open.spotify.com/artist/4IF11U0nzFhAaLDGZH3vSx
   - Bad Apple!! https://open.spotify.com/track/291GC2OHXnAKX7sV1JOKFF
-  
+
 # instrumental
 
 - SANOVA https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt?si=WwZKV6GqThW-8lUn-HdzFQ
-  - ZIPANG 弐nd https://open.spotify.com/album/39c02j5uv4sOAD1sx1yV8q
+  - ZIPANG 弐 nd https://open.spotify.com/album/39c02j5uv4sOAD1sx1yV8q
 
 # Jazz Techono
 
@@ -125,7 +130,7 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
   - 色彩 https://open.spotify.com/track/3soZEQKCYsFcr1w2A4nP0r)
 - fhána https://open.spotify.com/artist/5COrwcYLHQePdWt9V12iqv
   - 風を食む https://open.spotify.com/track/68OYaxreTGmAuD9cAztr2p?si=Cycc3_xjQ56oLOjaPgHfGA
-  
+
 # Pop Rock
 
 - T.M.Revolution https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr
