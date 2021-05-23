@@ -44,6 +44,7 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
 - Sanaas [tw](https://twitter.com/_sanaas) https://open.spotify.com/artist/3dJ5mXNLhIElreO64ian8W
   - Astroider https://open.spotify.com/album/6XruvEYnWUdcnBTJxI09gs
 
+
 ## Diverse System
 
 - AD:PIANO VII -Alternative- https://open.spotify.com/album/4U9cqGIGq2rui7qiJTJGxl
@@ -105,6 +106,13 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
 - ⭐ 山中千尋 https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD
   - XYZ https://open.spotify.com/track/32Qj6lL4GT387m8BJPx4mB
 - 片倉真由子 https://open.spotify.com/artist/5eP9be2Y1fGaWTQqvbF4hG
+
+# Vocal
+
+- 藍月なくる https://open.spotify.com/artist/76jymFPvOx0wxV8nEEewSq
+  - Transpain https://open.spotify.com/album/20R1HTf7TwjT0bkCdsYxwI 
+- Endorfin. https://open.spotify.com/artist/1JwmdprMI518JqrGDK6Xnn
+  - モノローグ・オフ https://open.spotify.com/album/1Nxa45HCEqRWmbd62mQmsc
 
 # Cute Pop
 
