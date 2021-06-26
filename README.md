@@ -43,7 +43,8 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
   - Reknowing https://open.spotify.com/album/70OMbDXDxjKnVvZvQL8akK?si=p3SVskhDTnGDv4EYRFC5Rg
 - Sanaas [tw](https://twitter.com/_sanaas) https://open.spotify.com/artist/3dJ5mXNLhIElreO64ian8W
   - Astroider https://open.spotify.com/album/6XruvEYnWUdcnBTJxI09gs
-
+- Grey October Sound
+  - TIMELESS vol.3 https://open.spotify.com/album/1U5u7OmiFCQwEFB3s2bbzk
 
 ## Diverse System
 
