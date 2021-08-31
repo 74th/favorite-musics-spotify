@@ -138,6 +138,9 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
   - 25 周年記念アルバムシングルコレクション+ アチコチ https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf
 - ヨルシカ https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik
 - memex https://open.spotify.com/artist/2qv0pPCrKMJjFIxkyEUMlE
+- Endrfin. https://open.spotify.com/artist/1JwmdprMI518JqrGDK6Xnn
+  - モノローグ・オフ https://open.spotify.com/album/1Nxa45HCEqRWmbd62mQmsc
+- はな https://open.spotify.com/artist/0Y3xnSPwhmQjp9BN9pVXjH
 
 # Modern Pop
 
