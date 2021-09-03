@@ -6,6 +6,7 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
   - Last Dance https://open.spotify.com/album/4CnGVticcLdPuoikh6s53m
   - CRYSTAR Complete Soundtrack https://open.spotify.com/album/1Nn9kn4zU6YKSNYBKNRRy5
 - Moe Shop https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ
+  - Norice me https://open.spotify.com/track/46x1gJhdPdqxWEmrGAByS9?si=6fd3f9331d104267
 - Bitplane https://open.spotify.com/artist/5DirjXq95E30aKz5hQmjDg
 - Onoken [tw](https://twitter.com/ax_onoken) https://open.spotify.com/artist/4bQFn6WUUBu0cgLu9Q9EEv
   - felys https://open.spotify.com/track/3Hc2p8YidWj1uJKHOaJptm?si=FYXUDdbgR_iewMpQB9UWhg
@@ -47,6 +48,9 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
   - TIMELESS vol.3 https://open.spotify.com/album/1U5u7OmiFCQwEFB3s2bbzk
 - seatrus https://open.spotify.com/artist/3m4ypCCe5ShA5j9JdGdy56
   - Battle of Prophets https://open.spotify.com/album/1EkR1y8Rs6wZSs9E9hnych
+- Tokyo Audio Waffle https://open.spotify.com/search/Tokyo%20Audio%20Waffle/albums
+  - Sparkling Tape https://open.spotify.com/album/0R9YEeWP0Mlfbt0hKcUZvc
+- ★ memex https://open.spotify.com/artist/2qv0pPCrKMJjFIxkyEUMlE
 
 ## Diverse System
 
