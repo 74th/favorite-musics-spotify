@@ -141,6 +141,7 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
 - Endrfin. https://open.spotify.com/artist/1JwmdprMI518JqrGDK6Xnn
   - モノローグ・オフ https://open.spotify.com/album/1Nxa45HCEqRWmbd62mQmsc
 - はな https://open.spotify.com/artist/0Y3xnSPwhmQjp9BN9pVXjH
+- ChouCho https://open.spotify.com/artist/5t7eQ2d1UmzfIr9oWQ538Y
 
 # Modern Pop
 
