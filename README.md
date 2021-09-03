@@ -6,7 +6,7 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
   - Last Dance https://open.spotify.com/album/4CnGVticcLdPuoikh6s53m
   - CRYSTAR Complete Soundtrack https://open.spotify.com/album/1Nn9kn4zU6YKSNYBKNRRy5
 - Moe Shop https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ
-  - Norice me https://open.spotify.com/track/46x1gJhdPdqxWEmrGAByS9?si=6fd3f9331d104267
+  - RADIO LOVE HIGHWAY https://open.spotify.com/album/6tsSRHeeYn41Mx0A3ftnUH
 - Bitplane https://open.spotify.com/artist/5DirjXq95E30aKz5hQmjDg
 - Onoken [tw](https://twitter.com/ax_onoken) https://open.spotify.com/artist/4bQFn6WUUBu0cgLu9Q9EEv
   - felys https://open.spotify.com/track/3Hc2p8YidWj1uJKHOaJptm?si=FYXUDdbgR_iewMpQB9UWhg
@@ -117,7 +117,7 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
 # Vocal
 
 - 藍月なくる https://open.spotify.com/artist/76jymFPvOx0wxV8nEEewSq
-  - Transpain https://open.spotify.com/album/20R1HTf7TwjT0bkCdsYxwI 
+  - Transpain https://open.spotify.com/album/20R1HTf7TwjT0bkCdsYxwI
 - Endorfin. https://open.spotify.com/artist/1JwmdprMI518JqrGDK6Xnn
   - モノローグ・オフ https://open.spotify.com/album/1Nxa45HCEqRWmbd62mQmsc
 
