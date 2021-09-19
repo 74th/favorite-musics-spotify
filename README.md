@@ -147,6 +147,9 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
 - はな https://open.spotify.com/artist/0Y3xnSPwhmQjp9BN9pVXjH
 - ChouCho https://open.spotify.com/artist/5t7eQ2d1UmzfIr9oWQ538Y
 
+## compilation album
+- Shine on rainy day / ゆらり https://open.spotify.com/album/769GkxuzTVWr6hDCDUTi8J
+
 # Modern Pop
 
 - la la works https://open.spotify.com/artist/5JPztZ2LqAwdoMu2vQFrAQ
