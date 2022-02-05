@@ -18,7 +18,7 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
 - Perfume https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr
 - XI [tw](https://twitter.com/com_giko_31) https://open.spotify.com/artist/0bwKEOznEbnmCK85SPEYuK
 - Wisp X https://open.spotify.com/artist/6qxhZqIAvYzDVKIyyYtVlX
-- ★ callasoiled [tw](https://twitter.com/callasoiled) https://open.spotify.com/artist/7aZvrOvlYcdjv1KjjnoFzc
+- ⭐ callasoiled [tw](https://twitter.com/callasoiled) https://open.spotify.com/artist/7aZvrOvlYcdjv1KjjnoFzc
   - kalel https://open.spotify.com/album/7qwVB9ghYxkHjMNiDPVCVy
 - Silentroom https://open.spotify.com/artist/7LLBCtTpnXXkY6AvW0Qjy9
 - Blacky [tw](https://twitter.com/blacky_bemani) https://open.spotify.com/artist/4IsgVdOy2TTOTPArjMzDNp
@@ -50,7 +50,8 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
   - Battle of Prophets https://open.spotify.com/album/1EkR1y8Rs6wZSs9E9hnych
 - Tokyo Audio Waffle https://open.spotify.com/search/Tokyo%20Audio%20Waffle/albums
   - Sparkling Tape https://open.spotify.com/album/0R9YEeWP0Mlfbt0hKcUZvc
-- ★ memex https://open.spotify.com/artist/2qv0pPCrKMJjFIxkyEUMlE
+- ⭐ memex https://open.spotify.com/artist/2qv0pPCrKMJjFIxkyEUMlE
+- kamome sano https://open.spotify.com/artist/0XraR5DqW6Vpp86omsB88K
 
 ## Diverse System
 
@@ -77,7 +78,8 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
 
 # Easy Techno
 
-- Sasakure.UK [tw](https://twitter.com/sasakure__uk) https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1
+- ⭐ Sasakure.UK [tw](https://twitter.com/sasakure__uk) https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1
+  - ⭐ LINNE(Sasalasa) https://open.spotify.com/album/6kbMBrUGsFAp3M2gIJR3SL
 - 雄之助 [tw](https://twitter.com/bass_ynk) https://open.spotify.com/artist/2JVKMrMR8PZohnjTIhY3Ks
   - Proto https://open.spotify.com/album/6wgQ9BTkUjhiPfL9dYllhq
 - アリスシャッハと魔法の楽団 [tw](https://twitter.com/Alice_Orchestra) https://open.spotify.com/artist/1jj5JcHK4rKRFXxVdu7GPx
@@ -102,8 +104,8 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
 
 # Ska Jazz
 
-- ★Soil & "Pimp" Sessions https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF
-  - ★No Taboo https://open.spotify.com/track/1HT3ls3pJttOIm1OmkhFtl
+- ⭐ Soil & "Pimp" Sessions https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF
+  - ⭐ No Taboo https://open.spotify.com/track/1HT3ls3pJttOIm1OmkhFtl
 - JABBERLOOP https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2
 - H ZETTORIO https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY
 
@@ -148,6 +150,7 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
 - ChouCho https://open.spotify.com/artist/5t7eQ2d1UmzfIr9oWQ538Y
 
 ## compilation album
+
 - Shine on rainy day / ゆらり https://open.spotify.com/album/769GkxuzTVWr6hDCDUTi8J
 
 # Modern Pop
