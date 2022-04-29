@@ -148,10 +148,13 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
   - モノローグ・オフ https://open.spotify.com/album/1Nxa45HCEqRWmbd62mQmsc
 - はな https://open.spotify.com/artist/0Y3xnSPwhmQjp9BN9pVXjH
 - ChouCho https://open.spotify.com/artist/5t7eQ2d1UmzfIr9oWQ538Y
+- somunia https://open.spotify.com/artist/6OduXXk2Xvxkfe9QG5upcc
 
 ## compilation album
 
 - Shine on rainy day / ゆらり https://open.spotify.com/album/769GkxuzTVWr6hDCDUTi8J
+- SPOTLIGHT Vol.1 https://open.spotify.com/album/5BJv8uW7Rc8312AtDLRNgq
+- SPOTLIGHT Vol.2 https://open.spotify.com/album/5fTHsIg1WgrfZ0rI83PgO2
 
 # Modern Pop
 
