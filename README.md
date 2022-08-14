@@ -2,7 +2,8 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
 
 # techno
 
-- Sakuzyo [tw](https://twitter.com/sakuzyo_skz) https://open.spotify.com/artist/53BVcGSlpWPF7iYsSN0Oe1
+- ⭐ callasoiled [tw](https://twitter.com/callasoiled) https://open.spotify.com/artist/7aZvrOvlYcdjv1KjjnoFzc
+- ⭐ Sakuzyo [tw](https://twitter.com/sakuzyo_skz) https://open.spotify.com/artist/53BVcGSlpWPF7iYsSN0Oe1
   - Last Dance https://open.spotify.com/album/4CnGVticcLdPuoikh6s53m
   - CRYSTAR Complete Soundtrack https://open.spotify.com/album/1Nn9kn4zU6YKSNYBKNRRy5
 - Moe Shop https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ
@@ -18,7 +19,6 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
 - Perfume https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr
 - XI [tw](https://twitter.com/com_giko_31) https://open.spotify.com/artist/0bwKEOznEbnmCK85SPEYuK
 - Wisp X https://open.spotify.com/artist/6qxhZqIAvYzDVKIyyYtVlX
-- ⭐ callasoiled [tw](https://twitter.com/callasoiled) https://open.spotify.com/artist/7aZvrOvlYcdjv1KjjnoFzc
   - kalel https://open.spotify.com/album/7qwVB9ghYxkHjMNiDPVCVy
 - Silentroom https://open.spotify.com/artist/7LLBCtTpnXXkY6AvW0Qjy9
 - Blacky [tw](https://twitter.com/blacky_bemani) https://open.spotify.com/artist/4IsgVdOy2TTOTPArjMzDNp
@@ -50,7 +50,6 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
   - Battle of Prophets https://open.spotify.com/album/1EkR1y8Rs6wZSs9E9hnych
 - Tokyo Audio Waffle https://open.spotify.com/search/Tokyo%20Audio%20Waffle/albums
   - Sparkling Tape https://open.spotify.com/album/0R9YEeWP0Mlfbt0hKcUZvc
-- ⭐ memex https://open.spotify.com/artist/2qv0pPCrKMJjFIxkyEUMlE
 - kamome sano https://open.spotify.com/artist/0XraR5DqW6Vpp86omsB88K
 
 ## Diverse System
@@ -98,8 +97,7 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
 
 # Jazz Techono
 
-- Jazztronik https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM
-- fox capture plan https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo
+- Jazztronik https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM -カッコいい fox capture plan https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo
   - another day https://open.spotify.com/album/33ibRnO3liMISpQI7LZSux
 
 # Ska Jazz
@@ -116,21 +114,20 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
   - XYZ https://open.spotify.com/track/32Qj6lL4GT387m8BJPx4mB
 - 片倉真由子 https://open.spotify.com/artist/5eP9be2Y1fGaWTQqvbF4hG
 
-# Vocal
+# Woman Vocalist, Group
 
-- 藍月なくる https://open.spotify.com/artist/76jymFPvOx0wxV8nEEewSq
-  - Transpain https://open.spotify.com/album/20R1HTf7TwjT0bkCdsYxwI
-- Endorfin. https://open.spotify.com/artist/1JwmdprMI518JqrGDK6Xnn
-  - モノローグ・オフ https://open.spotify.com/album/1Nxa45HCEqRWmbd62mQmsc
-
-# Cute Pop
-
-- ClariS https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim
-  - ヒトリゴト https://open.spotify.com/track/4OnP4Lz75YkFaO3I96Gdsz
-- 糸奇はな https://open.spotify.com/artist/4Ak0QNdKtwdmUrTfTMAsBU
+- ⭐ memex https://open.spotify.com/artist/2qv0pPCrKMJjFIxkyEUMlE
+  - haterodoxy https://open.spotify.com/track/5BjjboUddF7R6vAFhVklCV
 - ⭐ やなぎなぎ https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo
 - ⭐ binaria https://open.spotify.com/artist/3SkdXeqJHKFNXuaHvrj1pL
   - カミイロアワセ https://open.spotify.com/track/77spgc3VsjeFMi8ged5cOO
+- somunia https://open.spotify.com/artist/6OduXXk2Xvxkfe9QG5upcc
+- Mori Calliope https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8
+- 藍月なくる https://open.spotify.com/artist/76jymFPvOx0wxV8nEEewSq
+  - Transpain https://open.spotify.com/album/20R1HTf7TwjT0bkCdsYxwI
+- ClariS https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim
+  - ヒトリゴト https://open.spotify.com/track/4OnP4Lz75YkFaO3I96Gdsz
+- 糸奇はな https://open.spotify.com/artist/4Ak0QNdKtwdmUrTfTMAsBU
 - ずっと真夜中でいいのに https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj
 - 燦鳥ノム https://open.spotify.com/artist/47dWUegQfMWoEuh9lLfIhi
 - myson book girl https://open.spotify.com/artist/2rkgBTtk0Ec32yjIYsFP87
@@ -143,18 +140,10 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
   - 今日だけの音楽 https://open.spotify.com/album/2f2QiMAQjOGEBiierxdOI6
   - 25 周年記念アルバムシングルコレクション+ アチコチ https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf
 - ヨルシカ https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik
-- memex https://open.spotify.com/artist/2qv0pPCrKMJjFIxkyEUMlE
 - Endrfin. https://open.spotify.com/artist/1JwmdprMI518JqrGDK6Xnn
   - モノローグ・オフ https://open.spotify.com/album/1Nxa45HCEqRWmbd62mQmsc
 - はな https://open.spotify.com/artist/0Y3xnSPwhmQjp9BN9pVXjH
 - ChouCho https://open.spotify.com/artist/5t7eQ2d1UmzfIr9oWQ538Y
-- somunia https://open.spotify.com/artist/6OduXXk2Xvxkfe9QG5upcc
-
-## compilation album
-
-- Shine on rainy day / ゆらり https://open.spotify.com/album/769GkxuzTVWr6hDCDUTi8J
-- SPOTLIGHT Vol.1 https://open.spotify.com/album/5BJv8uW7Rc8312AtDLRNgq
-- SPOTLIGHT Vol.2 https://open.spotify.com/album/5fTHsIg1WgrfZ0rI83PgO2
 
 # Modern Pop
 
@@ -162,6 +151,12 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
   - 色彩 https://open.spotify.com/track/3soZEQKCYsFcr1w2A4nP0r)
 - fhána https://open.spotify.com/artist/5COrwcYLHQePdWt9V12iqv
   - 風を食む https://open.spotify.com/track/68OYaxreTGmAuD9cAztr2p?si=Cycc3_xjQ56oLOjaPgHfGA
+
+## compilation album
+
+- Shine on rainy day / ゆらり https://open.spotify.com/album/769GkxuzTVWr6hDCDUTi8J
+- SPOTLIGHT Vol.1 https://open.spotify.com/album/5BJv8uW7Rc8312AtDLRNgq
+- SPOTLIGHT Vol.2 https://open.spotify.com/album/5fTHsIg1WgrfZ0rI83PgO2
 
 # Pop Rock
 
