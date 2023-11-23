@@ -114,17 +114,26 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
   - XYZ https://open.spotify.com/track/32Qj6lL4GT387m8BJPx4mB
 - 片倉真由子 https://open.spotify.com/artist/5eP9be2Y1fGaWTQqvbF4hG
 
-# Woman Vocalist, Group
+# Woman Vocalist Techno
 
 - ⭐ memex https://open.spotify.com/artist/2qv0pPCrKMJjFIxkyEUMlE
   - haterodoxy https://open.spotify.com/track/5BjjboUddF7R6vAFhVklCV
+- Mori Calliope https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8 
+- METRO MEW https://open.spotify.com/artist/1gJXZ1gVIHK0cYqQ9krQR7
+- somunia https://open.spotify.com/artist/6OduXXk2Xvxkfe9QG5upcc
+- TEMPLINE 星宮とと https://open.spotify.com/artist/2gLRAkIfasw2ydt1omK41j
+
+
+# Woman Vocalist, Group
+
 - ⭐ やなぎなぎ https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo
 - ⭐ binaria https://open.spotify.com/artist/3SkdXeqJHKFNXuaHvrj1pL
   - カミイロアワセ https://open.spotify.com/track/77spgc3VsjeFMi8ged5cOO
-- somunia https://open.spotify.com/artist/6OduXXk2Xvxkfe9QG5upcc
 - Mori Calliope https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8
 - 藍月なくる https://open.spotify.com/artist/76jymFPvOx0wxV8nEEewSq
   - Transpain https://open.spotify.com/album/20R1HTf7TwjT0bkCdsYxwI
+- Albemuth https://open.spotify.com/artist/0ojt4tZJ0ud7qn25JdUyJW
+  - ADAM https://open.spotify.com/album/3Kjb4nYmLkGVCQX1ZVAa68
 - ClariS https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim
   - ヒトリゴト https://open.spotify.com/track/4OnP4Lz75YkFaO3I96Gdsz
 - 糸奇はな https://open.spotify.com/artist/4Ak0QNdKtwdmUrTfTMAsBU
