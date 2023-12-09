@@ -34,7 +34,7 @@ Spotify で聞ける好きな音楽。挙げてる曲はハマるきっかけに
   - リファクタリング・トラベル https://open.spotify.com/album/5fFNXltIEELVErPcj60UNZ
 - shimaL [tw](https://twitter.com/shimaru_440) https://open.spotify.com/artist/7HxoMAK5YwhVtPuDoKoJeV
   - Timescape https://open.spotify.com/album/5mzhGPrYWanf8wzVhYWXF5
-- Street [tw](https://streetjpofficial.com/) https://open.spotify.com/artist/5sSdUuww3wQAQzc7GSytF8
+- Street [tw](https://streetjpofficial.com/) https://open.spotify.com/artist/0VhdytHNkiG96Sv6qOO1HZ
   - Iroha https://open.spotify.com/album/15mLM0dnqru7dSLVJVrZjW
   - 海里 https://open.spotify.com/album/7wNhWsBXWpIQqK0kItLyST
 - ゆう [tw](https://twitter.com/___youkun___) https://open.spotify.com/artist/7b84Qty3ghHQz8omvoXSPH
